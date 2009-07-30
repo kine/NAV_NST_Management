@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
+/* Created by: Kamil Sacek
+ * 
+ */
+
 namespace NAV2009_NST_Management
 {
     static class Program

@@ -8,6 +8,10 @@ using System.IO;
 using System.Xml;
 using Microsoft.Win32;
 
+/* Created by: Kamil Sacek
+ * 
+ */
+
 namespace NAV2009_NST_Management
 {
     public class NAVService : ServiceController

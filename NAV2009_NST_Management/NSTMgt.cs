@@ -13,6 +13,10 @@ using System.Security.Permissions;
 using Microsoft.Win32;
 using System.Xml;
 
+/* Created by: Kamil Sacek
+ * 
+ */
+
 [assembly: RegistryPermissionAttribute(SecurityAction.RequestMinimum,
     Read = @"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Dynamics NAV\60\Service\W1 6.0")]
 [assembly: SecurityPermissionAttribute(SecurityAction.RequestMinimum,
