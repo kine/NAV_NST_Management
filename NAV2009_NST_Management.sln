@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAV2009_NST_Management", "NAV2009_NST_Management\NAV2009_NST_Management.csproj", "{C5F96508-607A-4C08-AD60-653B122C5AED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NAV2009_NST_Management_Setup", "NAV2009_NST_Management_Setup\NAV2009_NST_Management_Setup.vdproj", "{A817C3C4-74F6-4BEE-BDFF-8B89F12FC0F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F96508-607A-4C08-AD60-653B122C5AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F96508-607A-4C08-AD60-653B122C5AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F96508-607A-4C08-AD60-653B122C5AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F96508-607A-4C08-AD60-653B122C5AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A817C3C4-74F6-4BEE-BDFF-8B89F12FC0F3}.Debug|Any CPU.ActiveCfg = Debug
+		{A817C3C4-74F6-4BEE-BDFF-8B89F12FC0F3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_UpdateFileVersion = True
+		BuildVersion_UpdateAssemblyVersion = True
+	EndGlobalSection
+EndGlobal

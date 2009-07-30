@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NAV2009_NST_Management.NSTMgt">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGAQAAAAEAAAAAAAAAAACAAAAAEAABAAAAIABAAA=</HashCode>
+      <FileName>NSTMgt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NAV2009_NST_Management.NAVService">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAACAAAAAAAAAFAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ServiceItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
